@@ -1,0 +1,4338 @@
+[
+  {
+    "id": "ej_01_001",
+    "name": "Press de banca con barra",
+    "category": "Pecho",
+    "group": "empuje horizontal · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_002",
+    "name": "Press inclinado con barra",
+    "category": "Pecho",
+    "group": "empuje inclinado · compuesto",
+    "muscles": [
+      "Pectoral superior"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_003",
+    "name": "Press declinado con barra",
+    "category": "Pecho",
+    "group": "empuje declinado · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_004",
+    "name": "Press plano con mancuernas",
+    "category": "Pecho",
+    "group": "empuje horizontal · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_005",
+    "name": "Press inclinado con mancuernas",
+    "category": "Pecho",
+    "group": "empuje inclinado · compuesto",
+    "muscles": [
+      "Pectoral superior"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_006",
+    "name": "Press declinado con mancuernas",
+    "category": "Pecho",
+    "group": "empuje declinado · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_007",
+    "name": "Press de pecho en máquina de placas",
+    "category": "Pecho",
+    "group": "empuje horizontal · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "chest_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_008",
+    "name": "Press de pecho en máquina de discos",
+    "category": "Pecho",
+    "group": "empuje horizontal · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "chest_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_009",
+    "name": "Press de pecho en Smith",
+    "category": "Pecho",
+    "group": "empuje horizontal · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "smith",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_010",
+    "name": "Press de pecho en poleas",
+    "category": "Pecho",
+    "group": "empuje horizontal · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_011",
+    "name": "Press de suelo con barra",
+    "category": "Pecho",
+    "group": "press en suelo · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_012",
+    "name": "Press de suelo con mancuernas",
+    "category": "Pecho",
+    "group": "press en suelo · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_013",
+    "name": "Aperturas con mancuernas",
+    "category": "Pecho",
+    "group": "aducción horizontal · aislamiento",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_014",
+    "name": "Aperturas inclinadas con mancuernas",
+    "category": "Pecho",
+    "group": "aperturas ascendentes · aislamiento",
+    "muscles": [
+      "Pectoral superior"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_015",
+    "name": "Aperturas en máquina (pec deck)",
+    "category": "Pecho",
+    "group": "aducción horizontal · aislamiento",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "fly_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_016",
+    "name": "Cruce de poleas a altura media",
+    "category": "Pecho",
+    "group": "aducción horizontal · aislamiento",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_017",
+    "name": "Cruce de poleas de arriba hacia abajo",
+    "category": "Pecho",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_01_018",
+    "name": "Cruce de poleas de abajo hacia arriba",
+    "category": "Pecho",
+    "group": "aperturas ascendentes · aislamiento",
+    "muscles": [
+      "Pectoral superior"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_019",
+    "name": "Flexiones de brazos",
+    "category": "Pecho",
+    "group": "empuje horizontal · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_020",
+    "name": "Flexiones inclinadas",
+    "category": "Pecho",
+    "group": "empuje horizontal · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_021",
+    "name": "Flexiones declinadas",
+    "category": "Pecho",
+    "group": "empuje inclinado · compuesto",
+    "muscles": [
+      "Pectoral superior"
+    ],
+    "equipment": [
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_01_022",
+    "name": "Flexiones con lastre",
+    "category": "Pecho",
+    "group": "empuje horizontal · compuesto",
+    "muscles": [
+      "Pectoral"
+    ],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_01_023",
+    "name": "Fondos con énfasis pectoral",
+    "category": "Pecho",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_01_024",
+    "name": "Pullover con mancuerna",
+    "category": "Pecho",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_001",
+    "name": "Jalón al pecho con agarre prono",
+    "category": "Espalda",
+    "group": "tracción vertical bilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "lat_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_002",
+    "name": "Jalón al pecho con agarre supino",
+    "category": "Espalda",
+    "group": "tracción vertical bilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "lat_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_003",
+    "name": "Jalón al pecho con agarre neutro",
+    "category": "Espalda",
+    "group": "tracción vertical bilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "lat_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_004",
+    "name": "Jalón unilateral en polea",
+    "category": "Espalda",
+    "group": "tracción vertical unilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_005",
+    "name": "Jalón en máquina de discos",
+    "category": "Espalda",
+    "group": "tracción vertical bilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "lat_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_006",
+    "name": "Dominadas pronas",
+    "category": "Espalda",
+    "group": "tracción vertical bilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "pullup"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_007",
+    "name": "Dominadas supinas (chin-up)",
+    "category": "Espalda",
+    "group": "tracción vertical bilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "pullup"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_008",
+    "name": "Dominadas con agarre neutro",
+    "category": "Espalda",
+    "group": "tracción vertical bilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "pullup"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_009",
+    "name": "Dominadas asistidas en máquina",
+    "category": "Espalda",
+    "group": "tracción vertical bilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "assisted_station"
+    ],
+    "laterality": "bilateral",
+    "profile": "assisted_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_010",
+    "name": "Dominadas asistidas con banda",
+    "category": "Espalda",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "band"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_011",
+    "name": "Dominadas con lastre",
+    "category": "Espalda",
+    "group": "tracción vertical bilateral · compuesto",
+    "muscles": [
+      "Dorsal"
+    ],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_012",
+    "name": "Remo inclinado con barra",
+    "category": "Espalda",
+    "group": "remo sin apoyo · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_013",
+    "name": "Remo Pendlay",
+    "category": "Espalda",
+    "group": "remo sin apoyo · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_014",
+    "name": "Remo con mancuerna a una mano",
+    "category": "Espalda",
+    "group": "remo unilateral · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_015",
+    "name": "Remo con mancuernas y pecho apoyado",
+    "category": "Espalda",
+    "group": "remo con apoyo · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_016",
+    "name": "Remo con barra y pecho apoyado",
+    "category": "Espalda",
+    "group": "remo con apoyo · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_017",
+    "name": "Remo sentado en polea",
+    "category": "Espalda",
+    "group": "remo con apoyo · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_018",
+    "name": "Remo unilateral en polea",
+    "category": "Espalda",
+    "group": "remo unilateral · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_019",
+    "name": "Remo en máquina de placas",
+    "category": "Espalda",
+    "group": "remo con apoyo · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "row_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_020",
+    "name": "Remo en máquina de discos",
+    "category": "Espalda",
+    "group": "remo con apoyo · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "row_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_021",
+    "name": "Remo en barra T",
+    "category": "Espalda",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_022",
+    "name": "Remo con landmine a una mano",
+    "category": "Espalda",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_023",
+    "name": "Remo invertido",
+    "category": "Espalda",
+    "group": "remo corporal · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_024",
+    "name": "Remo en suspensión",
+    "category": "Espalda",
+    "group": "remo corporal · compuesto",
+    "muscles": [
+      "Espalda media",
+      "Dorsal"
+    ],
+    "equipment": [
+      "suspension"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_02_025",
+    "name": "Pullover en polea con brazos extendidos",
+    "category": "Espalda",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_026",
+    "name": "Pullover en máquina",
+    "category": "Espalda",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_027",
+    "name": "Extensión de espalda en banco de 45 grados",
+    "category": "Espalda",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_028",
+    "name": "Extensión de espalda en banco horizontal",
+    "category": "Espalda",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_029",
+    "name": "Extensión lumbar en máquina",
+    "category": "Espalda",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_02_030",
+    "name": "Hiperextensión inversa",
+    "category": "Espalda",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_03_001",
+    "name": "Press militar de pie con barra",
+    "category": "Hombros y trapecios",
+    "group": "press vertical de pie · compuesto",
+    "muscles": [
+      "Deltoides"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_002",
+    "name": "Press de hombros sentado con barra",
+    "category": "Hombros y trapecios",
+    "group": "press vertical sentado · compuesto",
+    "muscles": [
+      "Deltoides"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_003",
+    "name": "Press de hombros sentado con mancuernas",
+    "category": "Hombros y trapecios",
+    "group": "press vertical sentado · compuesto",
+    "muscles": [
+      "Deltoides"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_004",
+    "name": "Press de hombros de pie con mancuernas",
+    "category": "Hombros y trapecios",
+    "group": "press vertical de pie · compuesto",
+    "muscles": [
+      "Deltoides"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_005",
+    "name": "Press Arnold",
+    "category": "Hombros y trapecios",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_03_006",
+    "name": "Press de hombros en máquina",
+    "category": "Hombros y trapecios",
+    "group": "press vertical sentado · compuesto",
+    "muscles": [
+      "Deltoides"
+    ],
+    "equipment": [
+      "shoulder_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_007",
+    "name": "Press de hombros en Smith",
+    "category": "Hombros y trapecios",
+    "group": "press vertical sentado · compuesto",
+    "muscles": [
+      "Deltoides"
+    ],
+    "equipment": [
+      "smith",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_008",
+    "name": "Press unilateral con landmine",
+    "category": "Hombros y trapecios",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_03_009",
+    "name": "Elevación lateral con mancuernas",
+    "category": "Hombros y trapecios",
+    "group": "abducción de hombro · aislamiento",
+    "muscles": [
+      "Deltoides lateral"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_010",
+    "name": "Elevación lateral unilateral en polea",
+    "category": "Hombros y trapecios",
+    "group": "abducción de hombro · aislamiento",
+    "muscles": [
+      "Deltoides lateral"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_011",
+    "name": "Elevación lateral en máquina",
+    "category": "Hombros y trapecios",
+    "group": "abducción de hombro · aislamiento",
+    "muscles": [
+      "Deltoides lateral"
+    ],
+    "equipment": [
+      "lateral_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_012",
+    "name": "Elevación frontal con mancuernas",
+    "category": "Hombros y trapecios",
+    "group": "flexión de hombro · aislamiento",
+    "muscles": [
+      "Deltoides anterior"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_013",
+    "name": "Elevación frontal en polea",
+    "category": "Hombros y trapecios",
+    "group": "flexión de hombro · aislamiento",
+    "muscles": [
+      "Deltoides anterior"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_014",
+    "name": "Pájaros con mancuernas",
+    "category": "Hombros y trapecios",
+    "group": "abducción horizontal posterior · aislamiento",
+    "muscles": [
+      "Deltoides posterior"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_015",
+    "name": "Apertura inversa en máquina",
+    "category": "Hombros y trapecios",
+    "group": "abducción horizontal posterior · aislamiento",
+    "muscles": [
+      "Deltoides posterior"
+    ],
+    "equipment": [
+      "fly_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_016",
+    "name": "Apertura inversa en poleas",
+    "category": "Hombros y trapecios",
+    "group": "abducción horizontal posterior · aislamiento",
+    "muscles": [
+      "Deltoides posterior"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_017",
+    "name": "Face pull en polea",
+    "category": "Hombros y trapecios",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_03_018",
+    "name": "Elevación en Y con mancuernas",
+    "category": "Hombros y trapecios",
+    "group": "elevación escapular en Y · aislamiento",
+    "muscles": [
+      "Trapecio inferior"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_019",
+    "name": "Elevación en Y en poleas",
+    "category": "Hombros y trapecios",
+    "group": "elevación escapular en Y · aislamiento",
+    "muscles": [
+      "Trapecio inferior"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_020",
+    "name": "Rotación externa de hombro en polea",
+    "category": "Hombros y trapecios",
+    "group": "rotación externa · aislamiento",
+    "muscles": [
+      "Manguito rotador"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_021",
+    "name": "Rotación interna de hombro en polea",
+    "category": "Hombros y trapecios",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_03_022",
+    "name": "Rotación externa de hombro con banda",
+    "category": "Hombros y trapecios",
+    "group": "rotación externa · aislamiento",
+    "muscles": [
+      "Manguito rotador"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_023",
+    "name": "Encogimientos con barra",
+    "category": "Hombros y trapecios",
+    "group": "elevación escapular · aislamiento",
+    "muscles": [
+      "Trapecio superior"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_024",
+    "name": "Encogimientos con mancuernas",
+    "category": "Hombros y trapecios",
+    "group": "elevación escapular · aislamiento",
+    "muscles": [
+      "Trapecio superior"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_03_025",
+    "name": "Encogimientos en máquina",
+    "category": "Hombros y trapecios",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_03_026",
+    "name": "Deslizamiento escapular en pared",
+    "category": "Hombros y trapecios",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_04_001",
+    "name": "Curl con barra recta",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión supinada del codo · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_002",
+    "name": "Curl con barra EZ",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión supinada del codo · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "ez"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_003",
+    "name": "Curl alterno con mancuernas",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión supinada del codo · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_004",
+    "name": "Curl simultáneo con mancuernas",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión supinada del codo · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_005",
+    "name": "Curl inclinado con mancuernas",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión del codo con brazo atrás · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_006",
+    "name": "Curl martillo con mancuernas",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión neutra del codo · aislamiento",
+    "muscles": [
+      "Braquial",
+      "Braquiorradial"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_007",
+    "name": "Curl martillo con cuerda en polea",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión neutra del codo · aislamiento",
+    "muscles": [
+      "Braquial",
+      "Braquiorradial"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_008",
+    "name": "Curl predicador con barra EZ",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión del codo con apoyo · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "ez",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_009",
+    "name": "Curl predicador con mancuerna",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión del codo con apoyo · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_010",
+    "name": "Curl predicador en máquina",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión del codo con apoyo · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "curl_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_011",
+    "name": "Curl concentrado",
+    "category": "Bíceps y flexores del codo",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_04_012",
+    "name": "Curl de bíceps en polea baja",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión supinada del codo · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_013",
+    "name": "Curl de bíceps en polea alta",
+    "category": "Bíceps y flexores del codo",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_04_014",
+    "name": "Curl bayesiano en polea",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión del codo con brazo atrás · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_04_015",
+    "name": "Curl araña con mancuernas",
+    "category": "Bíceps y flexores del codo",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_04_016",
+    "name": "Curl inverso con barra",
+    "category": "Bíceps y flexores del codo",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_04_017",
+    "name": "Curl con banda",
+    "category": "Bíceps y flexores del codo",
+    "group": "flexión supinada del codo · aislamiento",
+    "muscles": [
+      "Bíceps"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_001",
+    "name": "Jalón de tríceps con cuerda",
+    "category": "Tríceps",
+    "group": "extensión de codo en polea · aislamiento",
+    "muscles": [
+      "Tríceps"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_002",
+    "name": "Jalón de tríceps con barra",
+    "category": "Tríceps",
+    "group": "extensión de codo en polea · aislamiento",
+    "muscles": [
+      "Tríceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_003",
+    "name": "Jalón de tríceps unilateral",
+    "category": "Tríceps",
+    "group": "extensión de codo en polea · aislamiento",
+    "muscles": [
+      "Tríceps"
+    ],
+    "equipment": [],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_004",
+    "name": "Extensión de tríceps sobre la cabeza en polea",
+    "category": "Tríceps",
+    "group": "extensión de codo sobre cabeza · aislamiento",
+    "muscles": [
+      "Tríceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_005",
+    "name": "Extensión de tríceps sobre la cabeza con mancuerna",
+    "category": "Tríceps",
+    "group": "extensión de codo sobre cabeza · aislamiento",
+    "muscles": [
+      "Tríceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_006",
+    "name": "Extensión de tríceps tumbado con barra EZ",
+    "category": "Tríceps",
+    "group": "extensión de codo tumbado · aislamiento",
+    "muscles": [
+      "Tríceps"
+    ],
+    "equipment": [
+      "ez",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_007",
+    "name": "Extensión de tríceps tumbado con mancuernas",
+    "category": "Tríceps",
+    "group": "extensión de codo tumbado · aislamiento",
+    "muscles": [
+      "Tríceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_008",
+    "name": "Press de banca con agarre cerrado",
+    "category": "Tríceps",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_05_009",
+    "name": "Fondos en paralelas con énfasis en tríceps",
+    "category": "Tríceps",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_05_010",
+    "name": "Fondos asistidos en máquina",
+    "category": "Tríceps",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "assisted_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_05_011",
+    "name": "Fondos con lastre",
+    "category": "Tríceps",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_05_012",
+    "name": "Extensión de tríceps en máquina",
+    "category": "Tríceps",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_05_013",
+    "name": "Patada de tríceps con mancuerna",
+    "category": "Tríceps",
+    "group": "extensión de codo con brazo atrás · aislamiento",
+    "muscles": [
+      "Tríceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_014",
+    "name": "Patada de tríceps en polea",
+    "category": "Tríceps",
+    "group": "extensión de codo con brazo atrás · aislamiento",
+    "muscles": [
+      "Tríceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_05_015",
+    "name": "Flexiones con agarre cerrado",
+    "category": "Tríceps",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_05_016",
+    "name": "Extensión de tríceps con banda",
+    "category": "Tríceps",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "band"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_06_001",
+    "name": "Curl de muñeca con barra",
+    "category": "Antebrazos y agarre",
+    "group": "flexión de muñeca · aislamiento",
+    "muscles": [
+      "Flexores del antebrazo"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_06_002",
+    "name": "Extensión de muñeca con barra",
+    "category": "Antebrazos y agarre",
+    "group": "extensión de muñeca · aislamiento",
+    "muscles": [
+      "Extensores del antebrazo"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_06_003",
+    "name": "Curl de muñeca con mancuerna",
+    "category": "Antebrazos y agarre",
+    "group": "flexión de muñeca · aislamiento",
+    "muscles": [
+      "Flexores del antebrazo"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_06_004",
+    "name": "Extensión de muñeca con mancuerna",
+    "category": "Antebrazos y agarre",
+    "group": "extensión de muñeca · aislamiento",
+    "muscles": [
+      "Extensores del antebrazo"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_06_005",
+    "name": "Pronación de antebrazo con resistencia",
+    "category": "Antebrazos y agarre",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_06_006",
+    "name": "Supinación de antebrazo con resistencia",
+    "category": "Antebrazos y agarre",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_06_007",
+    "name": "Rodillo de muñeca",
+    "category": "Antebrazos y agarre",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_06_008",
+    "name": "Cierre de pinza de mano",
+    "category": "Antebrazos y agarre",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_06_009",
+    "name": "Sujeción de discos con pinza",
+    "category": "Antebrazos y agarre",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_06_010",
+    "name": "Suspensión pasiva en barra",
+    "category": "Antebrazos y agarre",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "suspension"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_06_011",
+    "name": "Sujeción estática de barra",
+    "category": "Antebrazos y agarre",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_001",
+    "name": "Sentadilla trasera con barra alta",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "sentadilla bilateral · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_002",
+    "name": "Sentadilla trasera con barra baja",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "sentadilla bilateral · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_003",
+    "name": "Sentadilla frontal",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "sentadilla bilateral · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_004",
+    "name": "Sentadilla goblet",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "sentadilla bilateral · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_005",
+    "name": "Sentadilla en Smith",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "sentadilla bilateral · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [
+      "smith"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_006",
+    "name": "Sentadilla hack en máquina",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_007",
+    "name": "Sentadilla péndulo",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_008",
+    "name": "Sentadilla con cinturón (belt squat)",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_009",
+    "name": "Sentadilla con barra de seguridad",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_010",
+    "name": "Sentadilla a cajón",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_011",
+    "name": "Sentadilla Zercher",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_012",
+    "name": "Sentadilla sin carga",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_013",
+    "name": "Sentadilla sissy",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_014",
+    "name": "Sentadilla dividida (split squat)",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_015",
+    "name": "Sentadilla búlgara con mancuernas",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "sentadilla dividida con pie elevado · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_016",
+    "name": "Sentadilla búlgara con barra",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "sentadilla dividida con pie elevado · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_017",
+    "name": "Sentadilla búlgara en Smith",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "sentadilla dividida con pie elevado · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [
+      "smith"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_018",
+    "name": "Zancada hacia delante",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_019",
+    "name": "Zancada hacia atrás",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_020",
+    "name": "Zancada caminando",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_021",
+    "name": "Zancada lateral",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_022",
+    "name": "Subida al cajón con mancuernas",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_023",
+    "name": "Prensa de piernas inclinada",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "prensa bilateral · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [
+      "leg_press"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_024",
+    "name": "Prensa de piernas horizontal",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "prensa bilateral · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [
+      "leg_press"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_025",
+    "name": "Prensa de piernas vertical",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "prensa bilateral · compuesto",
+    "muscles": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "equipment": [
+      "leg_press"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_026",
+    "name": "Prensa de piernas unilateral",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "leg_press"
+    ],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_027",
+    "name": "Extensión de rodilla en máquina",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "extensión de rodilla · aislamiento",
+    "muscles": [
+      "Cuádriceps"
+    ],
+    "equipment": [
+      "leg_extension"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_028",
+    "name": "Extensión de rodilla unilateral en máquina",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": "extensión de rodilla · aislamiento",
+    "muscles": [
+      "Cuádriceps"
+    ],
+    "equipment": [
+      "leg_extension"
+    ],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_07_029",
+    "name": "Sentadilla isométrica en pared",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_07_030",
+    "name": "Sentadilla a una pierna (pistol squat)",
+    "category": "Sentadillas, prensas y trabajo de rodilla",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_001",
+    "name": "Peso muerto convencional",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_002",
+    "name": "Peso muerto sumo",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_003",
+    "name": "Peso muerto con barra hexagonal",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_004",
+    "name": "Peso muerto rumano con barra",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": "bisagra rumana bilateral · compuesto",
+    "muscles": [
+      "Isquiotibiales",
+      "Glúteos"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_08_005",
+    "name": "Peso muerto rumano con mancuernas",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": "bisagra rumana bilateral · compuesto",
+    "muscles": [
+      "Isquiotibiales",
+      "Glúteos"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_08_006",
+    "name": "Peso muerto rumano en Smith",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": "bisagra rumana bilateral · compuesto",
+    "muscles": [
+      "Isquiotibiales",
+      "Glúteos"
+    ],
+    "equipment": [
+      "smith"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_08_007",
+    "name": "Peso muerto rumano a una pierna",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_008",
+    "name": "Peso muerto desde bloques",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_009",
+    "name": "Peso muerto con déficit",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_010",
+    "name": "Buenos días con barra",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_011",
+    "name": "Pull-through en polea",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_012",
+    "name": "Curl femoral tumbado en máquina",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": "flexión de rodilla · aislamiento",
+    "muscles": [
+      "Isquiotibiales"
+    ],
+    "equipment": [
+      "leg_curl"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_08_013",
+    "name": "Curl femoral sentado en máquina",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": "flexión de rodilla · aislamiento",
+    "muscles": [
+      "Isquiotibiales"
+    ],
+    "equipment": [
+      "leg_curl"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_08_014",
+    "name": "Curl femoral de pie en máquina",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": "flexión de rodilla · aislamiento",
+    "muscles": [
+      "Isquiotibiales"
+    ],
+    "equipment": [
+      "leg_curl"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_08_015",
+    "name": "Curl femoral unilateral en máquina",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": "flexión de rodilla · aislamiento",
+    "muscles": [
+      "Isquiotibiales"
+    ],
+    "equipment": [
+      "leg_curl"
+    ],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_08_016",
+    "name": "Curl femoral nórdico",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_017",
+    "name": "Curl femoral nórdico asistido",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_018",
+    "name": "Elevación de glúteos e isquiotibiales (GHR)",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_019",
+    "name": "Curl femoral con balón suizo",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "ball"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_08_020",
+    "name": "Curl femoral con deslizadores",
+    "category": "Bisagra de cadera e isquiotibiales",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_09_001",
+    "name": "Hip thrust con barra",
+    "category": "Glúteos, abductores y aductores",
+    "group": "extensión de cadera en banco · compuesto",
+    "muscles": [
+      "Glúteos"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_002",
+    "name": "Hip thrust en máquina",
+    "category": "Glúteos, abductores y aductores",
+    "group": "extensión de cadera en banco · compuesto",
+    "muscles": [
+      "Glúteos"
+    ],
+    "equipment": [
+      "hip_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_003",
+    "name": "Hip thrust en Smith",
+    "category": "Glúteos, abductores y aductores",
+    "group": "extensión de cadera en banco · compuesto",
+    "muscles": [
+      "Glúteos"
+    ],
+    "equipment": [
+      "smith",
+      "bench"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_004",
+    "name": "Hip thrust a una pierna",
+    "category": "Glúteos, abductores y aductores",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "bench"
+    ],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_09_005",
+    "name": "Puente de glúteos sin carga",
+    "category": "Glúteos, abductores y aductores",
+    "group": "puente de cadera en suelo · compuesto",
+    "muscles": [
+      "Glúteos"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_006",
+    "name": "Puente de glúteos con barra",
+    "category": "Glúteos, abductores y aductores",
+    "group": "puente de cadera en suelo · compuesto",
+    "muscles": [
+      "Glúteos"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_007",
+    "name": "Patada de glúteo en polea",
+    "category": "Glúteos, abductores y aductores",
+    "group": "extensión de cadera unilateral · aislamiento",
+    "muscles": [
+      "Glúteos"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_008",
+    "name": "Patada de glúteo en máquina",
+    "category": "Glúteos, abductores y aductores",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_09_009",
+    "name": "Patada de glúteo con banda",
+    "category": "Glúteos, abductores y aductores",
+    "group": "extensión de cadera unilateral · aislamiento",
+    "muscles": [
+      "Glúteos"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_010",
+    "name": "Abducción de cadera en máquina",
+    "category": "Glúteos, abductores y aductores",
+    "group": "abducción de cadera · aislamiento",
+    "muscles": [
+      "Abductores"
+    ],
+    "equipment": [
+      "abductor"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_011",
+    "name": "Aducción de cadera en máquina",
+    "category": "Glúteos, abductores y aductores",
+    "group": "aducción de cadera · aislamiento",
+    "muscles": [
+      "Aductores"
+    ],
+    "equipment": [
+      "adductor"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_012",
+    "name": "Abducción de cadera en polea",
+    "category": "Glúteos, abductores y aductores",
+    "group": "abducción de cadera · aislamiento",
+    "muscles": [
+      "Abductores"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_013",
+    "name": "Aducción de cadera en polea",
+    "category": "Glúteos, abductores y aductores",
+    "group": "aducción de cadera · aislamiento",
+    "muscles": [
+      "Aductores"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_014",
+    "name": "Abducción de cadera tumbado de lado",
+    "category": "Glúteos, abductores y aductores",
+    "group": "abducción de cadera · aislamiento",
+    "muscles": [
+      "Abductores"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_09_015",
+    "name": "Caminata lateral con banda",
+    "category": "Glúteos, abductores y aductores",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "band"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_09_016",
+    "name": "Clamshell con banda",
+    "category": "Glúteos, abductores y aductores",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "band"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_09_017",
+    "name": "Plancha Copenhagen",
+    "category": "Glúteos, abductores y aductores",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_09_018",
+    "name": "Aducción de cadera tumbado de lado",
+    "category": "Glúteos, abductores y aductores",
+    "group": "aducción de cadera · aislamiento",
+    "muscles": [
+      "Aductores"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_10_001",
+    "name": "Elevación de talones de pie en máquina",
+    "category": "Pantorrillas y tibial anterior",
+    "group": "flexión plantar con rodilla extendida · aislamiento",
+    "muscles": [
+      "Gastrocnemio"
+    ],
+    "equipment": [
+      "calf_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_10_002",
+    "name": "Elevación de talones sentado en máquina",
+    "category": "Pantorrillas y tibial anterior",
+    "group": "flexión plantar con rodilla flexionada · aislamiento",
+    "muscles": [
+      "Sóleo"
+    ],
+    "equipment": [
+      "calf_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_10_003",
+    "name": "Elevación de talones en prensa",
+    "category": "Pantorrillas y tibial anterior",
+    "group": "flexión plantar con rodilla extendida · aislamiento",
+    "muscles": [
+      "Gastrocnemio"
+    ],
+    "equipment": [
+      "leg_press"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_10_004",
+    "name": "Elevación de talones en Smith",
+    "category": "Pantorrillas y tibial anterior",
+    "group": "flexión plantar con rodilla extendida · aislamiento",
+    "muscles": [
+      "Gastrocnemio"
+    ],
+    "equipment": [
+      "smith"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_10_005",
+    "name": "Elevación de talones con mancuernas",
+    "category": "Pantorrillas y tibial anterior",
+    "group": "flexión plantar con rodilla extendida · aislamiento",
+    "muscles": [
+      "Gastrocnemio"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_10_006",
+    "name": "Elevación de talón a una pierna",
+    "category": "Pantorrillas y tibial anterior",
+    "group": "flexión plantar con rodilla extendida · aislamiento",
+    "muscles": [
+      "Gastrocnemio"
+    ],
+    "equipment": [],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_10_007",
+    "name": "Elevación de talones sin carga",
+    "category": "Pantorrillas y tibial anterior",
+    "group": "flexión plantar con rodilla extendida · aislamiento",
+    "muscles": [
+      "Gastrocnemio"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_10_008",
+    "name": "Elevación de tibial anterior en máquina",
+    "category": "Pantorrillas y tibial anterior",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "unverified_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_10_009",
+    "name": "Elevación de tibial anterior en pared",
+    "category": "Pantorrillas y tibial anterior",
+    "group": "dorsiflexión de tobillo · aislamiento",
+    "muscles": [
+      "Tibial anterior"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_10_010",
+    "name": "Dorsiflexión de tobillo con banda",
+    "category": "Pantorrillas y tibial anterior",
+    "group": "dorsiflexión de tobillo · aislamiento",
+    "muscles": [
+      "Tibial anterior"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_001",
+    "name": "Crunch en suelo",
+    "category": "Abdominales y estabilización",
+    "group": "flexión de tronco · aislamiento",
+    "muscles": [
+      "Abdominales"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_002",
+    "name": "Crunch con carga",
+    "category": "Abdominales y estabilización",
+    "group": "flexión de tronco · aislamiento",
+    "muscles": [
+      "Abdominales"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_003",
+    "name": "Crunch en polea",
+    "category": "Abdominales y estabilización",
+    "group": "flexión de tronco · aislamiento",
+    "muscles": [
+      "Abdominales"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_004",
+    "name": "Crunch en máquina",
+    "category": "Abdominales y estabilización",
+    "group": "flexión de tronco · aislamiento",
+    "muscles": [
+      "Abdominales"
+    ],
+    "equipment": [
+      "abs_machine"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_005",
+    "name": "Crunch inverso",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_006",
+    "name": "Elevación de rodillas en silla romana",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_007",
+    "name": "Elevación de rodillas colgado",
+    "category": "Abdominales y estabilización",
+    "group": "elevación colgado · compuesto",
+    "muscles": [
+      "Abdominales",
+      "Flexores de cadera"
+    ],
+    "equipment": [
+      "pullup"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_008",
+    "name": "Elevación de piernas colgado",
+    "category": "Abdominales y estabilización",
+    "group": "elevación colgado · compuesto",
+    "muscles": [
+      "Abdominales",
+      "Flexores de cadera"
+    ],
+    "equipment": [
+      "pullup"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_009",
+    "name": "Elevación de piernas tumbado",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_010",
+    "name": "Toes-to-bar",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_011",
+    "name": "Rueda abdominal",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_012",
+    "name": "Despliegue abdominal con barra",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_013",
+    "name": "Plancha frontal",
+    "category": "Abdominales y estabilización",
+    "group": "anti-extensión isométrica · estabilización",
+    "muscles": [
+      "Abdominales"
+    ],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_014",
+    "name": "Plancha lateral",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_015",
+    "name": "Plancha con carga",
+    "category": "Abdominales y estabilización",
+    "group": "anti-extensión isométrica · estabilización",
+    "muscles": [
+      "Abdominales"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_duration",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_016",
+    "name": "Plancha con toques de hombro",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_017",
+    "name": "Dead bug",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_018",
+    "name": "Bird dog",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_019",
+    "name": "Hollow hold",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_020",
+    "name": "Pallof press en polea",
+    "category": "Abdominales y estabilización",
+    "group": "anti-rotación · estabilización",
+    "muscles": [
+      "Abdominales"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_021",
+    "name": "Pallof press con banda",
+    "category": "Abdominales y estabilización",
+    "group": "anti-rotación · estabilización",
+    "muscles": [
+      "Abdominales"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": true
+  },
+  {
+    "id": "ej_11_022",
+    "name": "Rotación de tronco en polea",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_023",
+    "name": "Woodchop en polea",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_024",
+    "name": "Giro ruso",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_025",
+    "name": "Abdominal bicicleta",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_026",
+    "name": "V-up",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_11_027",
+    "name": "Mountain climber",
+    "category": "Abdominales y estabilización",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_001",
+    "name": "Flexiones en anillas",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_002",
+    "name": "Fondos en anillas",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_003",
+    "name": "Dominadas en anillas",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "pullup"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_004",
+    "name": "Muscle-up en barra",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_005",
+    "name": "Muscle-up en anillas",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_006",
+    "name": "Flexiones pike",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_007",
+    "name": "Flexiones en parada de manos",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_008",
+    "name": "Parada de manos estática",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_009",
+    "name": "L-sit",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_010",
+    "name": "Front lever estático",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_011",
+    "name": "Elevaciones escapulares en barra",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_012",
+    "name": "Flexiones escapulares",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_013",
+    "name": "Sentadilla asistida en suspensión",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "suspension"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_014",
+    "name": "Curl femoral en suspensión",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "suspension"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_015",
+    "name": "Curl de bíceps en suspensión",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "suspension"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_12_016",
+    "name": "Extensión de tríceps en suspensión",
+    "category": "Calistenia y suspensión",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "suspension"
+    ],
+    "laterality": "bilateral",
+    "profile": "reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_001",
+    "name": "Arrancada con barra (snatch)",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_002",
+    "name": "Arrancada de potencia",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_003",
+    "name": "Arrancada desde colgante",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_004",
+    "name": "Cargada con barra (clean)",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_005",
+    "name": "Cargada de potencia",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_006",
+    "name": "Cargada desde colgante",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_007",
+    "name": "Envión con separación de piernas (split jerk)",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_008",
+    "name": "Push jerk",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_009",
+    "name": "Cargada y envión (clean and jerk)",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_010",
+    "name": "Push press",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_011",
+    "name": "Tirón de cargada",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_012",
+    "name": "Tirón de arrancada",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_013",
+    "name": "Sentadilla sobre la cabeza",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_014",
+    "name": "Arrancada con mancuerna",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_015",
+    "name": "Cargada con mancuerna",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_016",
+    "name": "Cargada con kettlebell",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "kettlebell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_13_017",
+    "name": "Arrancada con kettlebell",
+    "category": "Halterofilia y potencia",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "kettlebell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_001",
+    "name": "Swing con kettlebell",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "kettlebell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_002",
+    "name": "Levantamiento turco con kettlebell",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "kettlebell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_003",
+    "name": "Thruster con barra",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_004",
+    "name": "Thruster con mancuernas",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_005",
+    "name": "Burpee",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_006",
+    "name": "Salto al cajón",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_007",
+    "name": "Salto vertical",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_008",
+    "name": "Salto horizontal",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_009",
+    "name": "Salto lateral",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_010",
+    "name": "Salto de cuerda",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_011",
+    "name": "Salto doble de cuerda",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_012",
+    "name": "Lanzamiento de balón a pared (wall ball)",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "ball"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_013",
+    "name": "Golpe de balón al suelo",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "ball"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_014",
+    "name": "Lanzamiento rotacional de balón medicinal",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "ball"
+    ],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_015",
+    "name": "Cuerdas de batalla",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_016",
+    "name": "Empuje de trineo",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_017",
+    "name": "Arrastre de trineo",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_018",
+    "name": "Tirón de trineo con cuerda",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_019",
+    "name": "Paseo del granjero",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_020",
+    "name": "Paseo con carga a un lado (suitcase carry)",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "unilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_021",
+    "name": "Paseo con carga frontal (front rack carry)",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_022",
+    "name": "Paseo con carga sobre la cabeza",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_023",
+    "name": "Transporte de saco",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_024",
+    "name": "Caminata de oso",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_025",
+    "name": "Volteo de neumático",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_14_026",
+    "name": "Golpe de mazo a neumático",
+    "category": "Funcional, transportes y acondicionamiento",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_001",
+    "name": "Caminata en cinta",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "treadmill"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_002",
+    "name": "Caminata con inclinación en cinta",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "treadmill"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_003",
+    "name": "Carrera en cinta",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "treadmill"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_004",
+    "name": "Carrera en cinta curva",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "treadmill"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_005",
+    "name": "Bicicleta estática vertical",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_006",
+    "name": "Bicicleta reclinada",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "bike"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_007",
+    "name": "Bicicleta de ciclismo indoor",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "cycling"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_008",
+    "name": "Bicicleta de aire",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_009",
+    "name": "Elíptica",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "elliptical"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_010",
+    "name": "Escaladora",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "stairs"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_011",
+    "name": "Stepper",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "stairs"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_012",
+    "name": "Remo ergómetro",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [
+      "rower"
+    ],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_013",
+    "name": "SkiErg",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_014",
+    "name": "Ergómetro de brazos",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_015",
+    "name": "Caminata exterior",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_016",
+    "name": "Carrera exterior",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_15_017",
+    "name": "Ciclismo exterior",
+    "category": "Cardio",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "distance_time",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_001",
+    "name": "Movilidad de tobillo con rodilla a pared",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_002",
+    "name": "Movilidad de cadera 90/90",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_003",
+    "name": "Transiciones de cadera 90/90",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_004",
+    "name": "Rotación torácica en cuadrupedia",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_005",
+    "name": "Rotación torácica tumbado",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_006",
+    "name": "Gato-vaca",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_007",
+    "name": "Pasadas de hombros con bastón",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_008",
+    "name": "Estiramiento de pectoral",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_009",
+    "name": "Estiramiento de dorsal",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_010",
+    "name": "Estiramiento de flexores de cadera",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_011",
+    "name": "Estiramiento de cuádriceps",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_012",
+    "name": "Estiramiento de isquiotibiales",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_013",
+    "name": "Estiramiento de glúteos",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_014",
+    "name": "Estiramiento de aductores",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_015",
+    "name": "Estiramiento de gemelos",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_016",
+    "name": "Estiramiento de sóleo",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_017",
+    "name": "Estiramiento de flexores de muñeca",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_16_018",
+    "name": "Estiramiento de extensores de muñeca",
+    "category": "Movilidad y flexibilidad",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_17_001",
+    "name": "Flexión cervical con resistencia",
+    "category": "Cuello",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_17_002",
+    "name": "Extensión cervical con resistencia",
+    "category": "Cuello",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_17_003",
+    "name": "Inclinación cervical lateral con resistencia",
+    "category": "Cuello",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "weight_reps",
+    "reviewed": false
+  },
+  {
+    "id": "ej_17_004",
+    "name": "Isométrico cervical en flexión",
+    "category": "Cuello",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_17_005",
+    "name": "Isométrico cervical en extensión",
+    "category": "Cuello",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  },
+  {
+    "id": "ej_17_006",
+    "name": "Isométrico cervical lateral",
+    "category": "Cuello",
+    "group": null,
+    "muscles": [],
+    "equipment": [],
+    "laterality": "bilateral",
+    "profile": "duration",
+    "reviewed": false
+  }
+]

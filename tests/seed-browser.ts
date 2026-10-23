@@ -1,0 +1,12 @@
+import {emptyRoutine,emptySettings,now,uid} from "../lib/domain.ts";
+import type {Routine} from "../lib/types.ts";
+const base="http://127.0.0.1:5180";
+const state=await (await fetch(base+"/api/sync")).json() as {records:{kind:string;value:unknown;revision:number}[]};
+const existing=state.records.find(r=>r.kind==="routine"),routine=(existing?.value??emptyRoutine()) as Routine;
+if(!routine.days[0].slots.length)throw new Error("Primero añade el ejercicio del día 1 desde la interfaz.");
+for(let i=1;i<5;i++)routine.days[i].slots=[{...routine.days[0].slots[0],id:uid(),sets:1}];
+routine.name="Rutina de prueba · QA";routine.version++;routine.updatedAt=now();
+const settings={...emptySettings(),equipment:["barbell","bench","dumbbell"]};
+const operations=[{opId:uid(),kind:"routine",entityId:"base",baseRevision:existing?.revision??0,value:routine,createdAt:now()},{opId:uid(),kind:"settings",entityId:"preferences",baseRevision:state.records.find(r=>r.kind==="settings")?.revision??0,value:settings,createdAt:now()}];
+const r=await fetch(base+"/api/sync",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({operations})});
+console.log(r.status,await r.text());
